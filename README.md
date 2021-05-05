@@ -5,5 +5,13 @@ Boardsourcebot is designed to make the lives or the boardsource mods easier to h
 1. Install Nim using [choosenim](https://github.com/dom96/choosenim) or [Nim's website](https://nim-lang.org/install.html)
 2. Install Nimble from [numble](https://github.com/nim-lang/nimble)
 
-##Building
+## Building
 `make release` or `make debug`
+
+## Installing
+To install, compile and then run
+`sudo make install`
+
+## Docker
+This can also be built and run with docker. Simply run
+`dockerrun.sh`

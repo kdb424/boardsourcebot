@@ -9,13 +9,13 @@ SRCDIR = src
 BIN = boardsourcebot
 SERVICE_FILE = boardsourcebot.service
 INSTALL_DIR = /opt/boardsourcebot
-SERVICE_DIR = /usr/lib/systemd/system/
+SERVICE_DIR = /usr/lib/systemd/system
 
 debug:
 	nimble build '-d:ssl --cc:clang'
 
 release:
- nimble build '-d:ssl --cc:clang -d:release'
+	nimble build '-d:ssl --cc:clang -d:release'
 
 clean:
 	rm -f ./${BIN}

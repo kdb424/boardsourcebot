@@ -1,0 +1,9 @@
+[Unit]
+Description=boardsourcebot
+
+[Service]
+WorkingDirectory=/opt/boardsourcebot
+ExecStart=/opt/boardsourcebot/boardsourcebot
+
+[Install]
+WantedBy=multi-user.target 

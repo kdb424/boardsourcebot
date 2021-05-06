@@ -6,6 +6,8 @@ Boardsourcebot is designed to make the lives or the boardsource mods easier to h
 2. Install Nimble from [numble](https://github.com/nim-lang/nimble)
 
 ## Building
+Copy `src/config.nim.example` to `src/config.nim` and add api key, as well as
+adjusting the command prefix if desired.
 `make release` or `make debug`
 
 ## Installing

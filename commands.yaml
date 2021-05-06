@@ -1,0 +1,51 @@
+%YAML 1.2
+---
+- {
+    command: "brokenkey",
+    response: "Broken key tips can be found here",
+    response2: "https://discord.com/channels/704394060390989834/705657159639105626/798051589004197938"
+  }
+- {
+    command: "buildguide",
+    response: "Build Guides can be found here",
+    response2: "https://discord.com/channels/704394060390989834/705657159639105626/790728181857910854"
+  }
+- {
+    command: "trrs",
+    response: "TRRS jacks are included with the PCB, as are the reset buttons",
+    response2: ""
+  }
+- {
+    command: "restock",
+    response: "https://media1.tenor.com/images/28cf6532c043be996d04c00ec2ac3246/tenor.gif?itemid=2088319",
+    response2: "Shipping is backup up worldwide and we can not give estimates at the current time"
+  }
+- {
+    command: "oled",
+    response: "OLED help can be found here",
+    response2: "https://discord.com/channels/704394060390989834/755980550539313293/790417018822197289"
+  }
+- {
+    command: "sockets",
+    response: "Socket information and links can be found here",
+    response2: "https://discord.com/channels/704394060390989834/705657159639105626/752342450047156245"
+  }
+- {
+    command: "configure",
+    response:
+        "Hitting configure will add at least one of each item you NEED For a
+working keyboard, not including switches or keycaps. For example, it will
+include 1 PCB or pair of PCBs for splits. You may want to add or change items to
+customize it for your needs or desires though!
+",
+    response2: ""
+  }
+- {
+    command: "elitec",
+    response:
+        "The elite C uses a type-C port as opposed to microUSB making it less prone
+    to breaking, as well as having a better bootloader, which is especially
+    important for linux users.
+",
+    response2: ""
+  }

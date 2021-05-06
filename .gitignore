@@ -4,5 +4,5 @@
 tmp/
 
 
-src/apikey.nim
+src/config.nim
 boardsourcebot

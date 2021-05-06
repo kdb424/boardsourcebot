@@ -12,3 +12,4 @@ bin           = @["boardsourcebot"]
 
 requires "nim >= 1.4.6"
 requires "dimscord >= 1.2.5"
+requires "https://github.com/flyx/NimYAML#devel"

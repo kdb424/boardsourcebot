@@ -1,3 +1,7 @@
+- command: help
+  response: >-
+    https://git.kdb424.xyz/kdb424/boardsourcebot/src/branch/master/commands.yaml
+  response2: ''
 - command: brokenkey
   response: Broken key tips can be found here
   response2: >-

@@ -40,3 +40,8 @@
     to breaking, as well as having a better bootloader, which is especially
     important for linux users.
   response2: ''
+- command: opinion
+  response: >-
+    Personal preference is why we have many options. Your opinion is valid,
+    but so are others.
+  response2: ''

@@ -45,3 +45,8 @@
     Personal preference is why we have many options. Your opinion is valid,
     but so are others.
   response2: ''
+- command: mbk
+  response: >-
+    If you have also ordered MKB legends, your order will be shipped once those
+    are in hand to ship as well. One order means everything ships at one time.
+  response2: ''

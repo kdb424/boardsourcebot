@@ -50,3 +50,7 @@
     If you have also ordered MBK legends, your order will be shipped once those
     are in hand to ship as well. One order means everything ships at one time.
   response2: ''
+- command: pinout
+  response: >-
+    https://golem.hu/pic/pro_micro_pinout.jpg
+  response2: ''

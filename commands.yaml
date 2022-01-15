@@ -54,3 +54,8 @@
   response: >-
     https://golem.hu/pic/pro_micro_pinout.jpg
   response2: ''
+- command: orderautolink
+  response: >-
+    Please check the message here. It's also pinned in \#storechat
+  response2: 
+    https://discord.com/channels/704394060390989834/705659616347815977/931975339473793084

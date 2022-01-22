@@ -22,6 +22,10 @@ debug:
 release:
 	nimble build '-d:ssl --cc:clang -d:release'
 
+.PHONY: static
+static:
+	nimble build '-d:ssl --gcc.exe:/usr/bin/musl-gcc --gcc.linkerexe:/usr/bin/musl-gcc --opt:size --passL:-static -d:release'
+
 .PHONY: clean
 clean:
 	rm -f ./${BIN}

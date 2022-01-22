@@ -59,3 +59,8 @@
     Please check the message here. It's also pinned in \#storechat
   response2: 
     https://discord.com/channels/704394060390989834/705659616347815977/931975339473793084
+- command: merge
+  response: >-
+    If you want to merge orders, or forgot to place an order for parts, please
+    DM one of the admins and they can sort you out.
+  response2: ''
